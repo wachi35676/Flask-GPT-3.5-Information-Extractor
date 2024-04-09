@@ -1,9 +1,3 @@
-To write a comprehensive README.md for your Python application, I'll first need to examine the contents of `app.py` to understand its functionality, dependencies, and how it's meant to be used. I'll start by reviewing the code. Give me a moment to open and read through your file.
-
-Based on the code from `app.py`, here is a draft of the `README.md` for your application:
-
----
-
 # Flask GPT-3.5 Information Extractor
 
 This Flask application leverages OpenAI's GPT-3.5 model to process and extract information on specific topics from scraped web content. It integrates Google's Custom Search API for web scraping and OpenAI's API for processing the scraped content. The application provides a simple API endpoint that allows users to specify a topic; it then searches the web for content related to that topic, scrapes the content, and uses GPT-3.5 to extract and process relevant information.
