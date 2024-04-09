@@ -21,7 +21,7 @@ To set up and run this application locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/wachi35676/Researcher.git
    ```
 
 2. **Install dependencies:**
